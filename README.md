@@ -1,6 +1,6 @@
 # FARS
 
-# Instructions
+## Instructions
 
 For this assessment you must:
 
