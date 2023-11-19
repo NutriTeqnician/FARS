@@ -1,10 +1,6 @@
 # FARS
-Coursera's Building R packages
 
-Final Peer-graded Assignment: Building an R Package
-
-Instructions
-The purpose of this assessment is for you to combine your skills of creating, writing, documenting, and testing an R package with releasing that package on GitHub. In this assessment you'll be taking the R files from Week 2's assessment about documentation and putting that file in an R package.
+# Instructions
 
 For this assessment you must:
 
@@ -17,4 +13,5 @@ Put your package on GitHub;
 Set up the repository so that the package can be checked and built on Travis;
 
 Once your package has built on Travis and the build is passing with no errors, warnings, or notes you should add your Travis badge to the README.md file of your package repository.
+
 
