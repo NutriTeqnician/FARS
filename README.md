@@ -2,6 +2,7 @@
 
 ## Instructions
 
+The purpose of this assessment is for you to combine your skills of creating, writing, documenting, and testing an R package with releasing that package on GitHub. 
 For this assessment you must:
 
 Write a vignette to include in your package using knitr and R Markdown;
