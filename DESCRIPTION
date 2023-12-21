@@ -1,0 +1,25 @@
+Package: fars functions
+Version: 1.0
+Date:  2023
+Depends:  R (>= 4.3.1)
+Title:  Final Assignment Building an R Package
+Author:  SSH
+Description:  Package to summarize data in the FARS data folder to provide accident counts by year and month, and to plot FARS accident data on a map for a given state and year.
+
+Imports:
+   dplyr,
+   magrittr,
+   maps,
+   readr,
+   rlang,
+   testthat,
+   tidyr
+Suggests: 
+    rmarkdown
+VignetteBuilder: knitr
+
+
+
+
+
+
