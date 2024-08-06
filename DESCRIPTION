@@ -4,6 +4,7 @@ Date:  2023
 Depends:  R (>= 4.3.1)
 Title:  Final Assignment Building an R Package
 Author:  SSH
+Maintainer : SSH <ssh@janedoe.com>
 Description:  Package to summarize data in the FARS data folder to provide accident counts by year and month, and to plot FARS accident data on a map for a given state and year.
 
 Imports:
